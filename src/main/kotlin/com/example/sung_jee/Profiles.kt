@@ -9,4 +9,5 @@ object Profiles {
     const val P05 = "P05"
     const val P06 = "P06"
     const val P07 = "P07"
+    const val P08 = "P08"
 }
